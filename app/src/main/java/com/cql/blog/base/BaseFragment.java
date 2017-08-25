@@ -1,4 +1,4 @@
-package com.cql.blog;
+package com.cql.blog.base;
 
 import android.support.v4.app.Fragment;
 

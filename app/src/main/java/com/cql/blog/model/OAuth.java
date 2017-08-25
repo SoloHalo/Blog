@@ -8,7 +8,7 @@ import java.util.Date;
  * Created by CQL on 2017/8/23.
  */
 
-public class User {
+public class OAuth {
     @SerializedName("access_token")
     private String accessToken;
     @SerializedName("refresh_token")
